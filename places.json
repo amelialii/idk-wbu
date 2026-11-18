@@ -26,6 +26,7 @@
     { "name": "Chipotle", "tier": "green", "enabled": true },
     { "name": "Sushi Burrito", "tier": "green", "enabled": true },
     { "name": "Meesum", "tier": "green", "enabled": true },
+    { "name": "Cantina", "tier": "green", "enabled": true },
     { "name": "Bite & Bento", "tier": "yellow", "enabled": true },
     { "name": "Hmart", "tier": "yellow", "enabled": true },
     { "name": "Cafe on the Ave", "tier": "yellow", "enabled": true },
